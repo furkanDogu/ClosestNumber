@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\obj\Debug\YazılımYapımı2.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\obj\Debug\YazılımYapımı2.Form1.resources
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\obj\Debug\YazılımYapımı2.Properties.Resources.resources
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\obj\Debug\YazılımYapımı2.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\obj\Debug\YazılımYapımı2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\bin\Debug\YazılımYapımı2.exe.config
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\bin\Debug\YazılımYapımı2.exe
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\bin\Debug\YazılımYapımı2.pdb
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\obj\Debug\YazılımYapımı2.exe
+D:\VisualStudioProjects\YazılımYapımı2\YazılımYapımı2\obj\Debug\YazılımYapımı2.pdb
