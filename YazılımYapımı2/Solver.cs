@@ -37,7 +37,7 @@ namespace YazılımYapımı2
             }
             else return;
         }
-        private List<Number> changeList(List<Number> temp, Number newValue, Number old1, Number old2, char Ooperator)
+        private List<Number> changeList(List<Number> temp, Number newValue, Number old1, Number old2)
         {
             List<Number> newList = new List<Number>(temp);
             newList.Remove(old1);
@@ -62,7 +62,7 @@ namespace YazılımYapımı2
                                 this.addToResultList(tempNumber);
                                 break;
                             }
-                            solve(changeList(temp, (tempNumber), x, y, o), target);
+                            solve(changeList(temp, (tempNumber), x, y), target);
                         }
                         break;
                     case '-':
@@ -76,7 +76,7 @@ namespace YazılımYapımı2
                                 this.addToResultList(tempNumber);
                                 break;
                             }
-                            solve(changeList(temp, (tempNumber), x, y, o), target);
+                            solve(changeList(temp, (tempNumber), x, y), target);
                         }
                         break;
 
@@ -91,7 +91,7 @@ namespace YazılımYapımı2
                                 this.addToResultList(tempNumber);
                                 break;
                             }
-                            solve(changeList(temp, (tempNumber), x, y, o), target);
+                            solve(changeList(temp, (tempNumber), x, y), target);
                         }
                         break;
                     case '/':
@@ -105,7 +105,7 @@ namespace YazılımYapımı2
                                 this.addToResultList(tempNumber);
                                 break;
                             }
-                            solve(changeList(temp, (tempNumber), x, y, o), target);
+                            solve(changeList(temp, (tempNumber), x, y), target);
                             break;
                         }
                         break;
